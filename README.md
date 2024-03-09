@@ -1,2 +1,2 @@
 # Gamer
-Hello Gamer
+Hello Gamer.
